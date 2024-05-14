@@ -1,5 +1,7 @@
 # 7-Day Meal Plan
 [Shopping List](./shopping.md)
+
+![mealplan](./assets/mealplan.webp)
 ## Monday
 
 ### Breakfast
